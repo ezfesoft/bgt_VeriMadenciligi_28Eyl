@@ -1,0 +1,61 @@
+Urun_ID,Kategori,Urun_Adi,Orijinal_Fiyat,Indirim_Orani,Indirimli_Fiyat,Degerlendirme_Puani,Yorum_Sayisi,Kargo_Bedava
+5001,Ev & Yaşam,Çalışma Masası,1828,0.35,1188,3.0,2960,Evet
+5002,Ev & Yaşam,Çalışma Masası,33977,0.38,21065,4.0,8002,Evet
+5003,Kozmetik,Nemlendirici,16348,0.09,14876,3.4,4790,Hayır
+5004,Elektronik,Akıllı Telefon,10064,0.25,7548,3.7,2378,Evet
+5005,Elektronik,Bluetooth Kulaklık,28040,0.18,22992,4.5,6665,Evet
+5006,Kozmetik,Nemlendirici,22449,0.49,11448,4.4,8183,Evet
+5007,Kozmetik,Maskara,43735,0.31,30177,3.6,4505,Hayır
+5008,Elektronik,Bluetooth Kulaklık,43839,0.59,17973,4.1,6012,Evet
+5009,Kozmetik,Parfüm,42707,0.27,31176,4.0,6624,Evet
+5010,Ev & Yaşam,Robot Süpürge,44170,0.5,22085,4.3,5929,Hayır
+5011,Giyim,Spor Ayakkabı,2843,0.49,1449,3.5,863,Evet
+5012,Ev & Yaşam,Robot Süpürge,29617,0.13,25766,4.2,4156,Evet
+5013,Elektronik,Akıllı Saat,29873,0.33,20014,5.0,3779,Evet
+5014,Kozmetik,Parfüm,3777,0.43,2152,4.0,584,Evet
+5015,Giyim,Kışlık Mont,26089,0.52,12522,4.8,1158,Evet
+5016,Elektronik,Akıllı Telefon,43091,0.23,33180,3.9,6303,Evet
+5017,Kozmetik,Maskara,21984,0.17,18246,3.7,6467,Evet
+5018,Giyim,Tişört,18197,0.44,10190,4.3,7519,Hayır
+5019,Giyim,Kot Pantolon,26255,0.5,13127,4.3,4787,Evet
+5020,Kozmetik,Maskara,10380,0.24,7888,4.7,3864,Evet
+5021,Giyim,Kot Pantolon,15857,0.1,14271,3.5,2501,Evet
+5022,Elektronik,Akıllı Telefon,22126,0.57,9514,4.0,3134,Evet
+5023,Kozmetik,Güneş Kremi,44412,0.27,32420,4.1,5701,Hayır
+5024,Ev & Yaşam,Çalışma Masası,23926,0.33,16030,4.5,3061,Hayır
+5025,Elektronik,Akıllı Saat,30230,0.51,14812,3.1,14,Hayır
+5026,Elektronik,Dizüstü Bilgisayar,1456,0.42,844,5.0,5232,Evet
+5027,Kozmetik,Güneş Kremi,6926,0.45,3809,3.9,5325,Hayır
+5028,Kozmetik,Parfüm,27401,0.16,23016,3.6,4879,Evet
+5029,Giyim,Spor Ayakkabı,9624,0.35,6255,4.8,886,Hayır
+5030,Elektronik,Bluetooth Kulaklık,40444,0.43,23053,4.5,7037,Hayır
+5031,Giyim,Kot Pantolon,22109,0.18,18129,4.9,4152,Evet
+5032,Elektronik,Bluetooth Kulaklık,5680,0.15,4828,3.7,6976,Hayır
+5033,Elektronik,Akıllı Saat,29470,0.59,12082,4.1,7089,Hayır
+5034,Ev & Yaşam,Masa Lambası,3898,0.33,2611,4.1,7997,Hayır
+5035,Elektronik,Dizüstü Bilgisayar,32118,0.19,26015,5.0,6809,Evet
+5036,Giyim,Kot Pantolon,32712,0.6,13084,3.2,4475,Evet
+5037,Giyim,Spor Ayakkabı,13695,0.58,5751,3.6,645,Hayır
+5038,Ev & Yaşam,Çalışma Masası,813,0.36,520,3.4,1703,Evet
+5039,Giyim,Kot Pantolon,34916,0.54,16061,3.5,4762,Evet
+5040,Kozmetik,Güneş Kremi,8144,0.15,6922,4.0,8321,Evet
+5041,Ev & Yaşam,Çalışma Masası,28171,0.2,22536,3.7,840,Hayır
+5042,Giyim,Kışlık Mont,30453,0.44,17053,3.8,5187,Evet
+5043,Giyim,Kışlık Mont,3454,0.52,1657,4.7,8318,Hayır
+5044,Kozmetik,Parfüm,39503,0.52,18961,4.9,5959,Evet
+5045,Ev & Yaşam,Masa Lambası,17825,0.27,13012,3.1,2848,Evet
+5046,Kozmetik,Maskara,44567,0.54,20500,3.4,1160,Hayır
+5047,Ev & Yaşam,Robot Süpürge,24088,0.52,11562,4.3,7570,Hayır
+5048,Ev & Yaşam,Robot Süpürge,23814,0.56,10478,3.7,1941,Evet
+5049,Elektronik,Bluetooth Kulaklık,1786,0.48,928,3.5,1674,Hayır
+5050,Giyim,Kot Pantolon,20230,0.42,11733,3.6,1091,Hayır
+5051,Giyim,Kışlık Mont,27878,0.37,17563,3.6,522,Evet
+5052,Elektronik,Bluetooth Kulaklık,26886,0.25,20164,4.7,7815,Hayır
+5053,Kozmetik,Maskara,28823,0.57,12393,3.3,5247,Evet
+5054,Elektronik,Akıllı Telefon,37655,0.59,15438,4.4,569,Evet
+5055,Giyim,Kot Pantolon,1004,0.21,793,4.1,3682,Hayır
+5056,Giyim,Tişört,24698,0.22,19264,3.6,7414,Evet
+5057,Elektronik,Akıllı Saat,38773,0.32,26365,3.8,3353,Evet
+5058,Elektronik,Dizüstü Bilgisayar,7542,0.3,5279,3.5,4080,Evet
+5059,Elektronik,Akıllı Saat,21706,0.6,8682,4.2,590,Hayır
+5060,Giyim,Kot Pantolon,38709,0.15,32902,3.2,7014,Hayır
